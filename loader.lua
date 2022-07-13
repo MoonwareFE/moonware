@@ -42,4 +42,12 @@ elseif game.PlaceId == 3851622790 then
 
 elseif game.PlaceId == 183364845 then
  loadstring(game:HttpGet('https://raw.githubusercontent.com/bleachedmen48/monkey/main/speedrun'))()
+  
+elseif game.PlaceId == 6284583030 then
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/bleachedmen48/monkey/main/pet-sim-x'))()
+  
+ elseif game.PlaceId == 990566015 then
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/bleachedmen48/monkey/main/cursed-islands'))()
+  
+ 
 end
