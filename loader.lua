@@ -37,7 +37,7 @@ elseif game.PlaceId == 2788229376 then
 elseif game.PlaceId == 893973440 then
  loadstring(game:HttpGet('https://raw.githubusercontent.com/bleachedmen48/monkey/main/Flee-the-Facility.lua'))()
 
-elseif game.PlaceId == 3851622790 then
+elseif game.PlaceId == 3851622790 or 4620170611 then
  loadstring(game:HttpGet('https://raw.githubusercontent.com/bleachedmen48/monkey/main/break_in.lua'))()
 
 elseif game.PlaceId == 183364845 then
