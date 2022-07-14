@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using MoonWare.Lua;
 
-namespace MuckInternal
+namespace Moonware_Cache
 {
     class ObjectCache<T> where T : MoonWare.Lua.Object
     {
