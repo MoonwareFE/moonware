@@ -52,5 +52,9 @@ elseif game.PlaceId == 6284583030 then
  elseif game.PlaceId == 7027306580 then
   loadstring(game:HttpGet('https://raw.githubusercontent.com/bleachedmen48/monkey/main/Escape%20School%20Obby'))()
   
+ elseif game.PlaceId == 8750997647 then
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/bleachedmen48/monkey/main/tapping-sim'))()
+ 
+  
  
 end
