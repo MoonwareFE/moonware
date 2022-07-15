@@ -37,7 +37,10 @@ elseif game.PlaceId == 2788229376 then
 elseif game.PlaceId == 893973440 then
  loadstring(game:HttpGet('https://raw.githubusercontent.com/bleachedmen48/monkey/main/Flee-the-Facility.lua'))()
 
-elseif game.PlaceId == 3851622790 or 4620170611 then
+elseif game.PlaceId == 3851622790 then
+ loadstring(game:HttpGet('https://raw.githubusercontent.com/bleachedmen48/monkey/main/break_in.lua'))()
+ 
+elseif game.PlaceId == 4620170611 then
  loadstring(game:HttpGet('https://raw.githubusercontent.com/bleachedmen48/monkey/main/break_in.lua'))()
 
 elseif game.PlaceId == 183364845 then
@@ -46,13 +49,13 @@ elseif game.PlaceId == 183364845 then
 elseif game.PlaceId == 6284583030 then
   loadstring(game:HttpGet('https://raw.githubusercontent.com/bleachedmen48/monkey/main/pet-sim-x'))()
   
- elseif game.PlaceId == 990566015 then
-  loadstring(game:HttpGet('https://raw.githubusercontent.com/bleachedmen48/monkey/main/cursed-islands'))()
+elseif game.PlaceId == 990566015 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/bleachedmen48/monkey/main/cursed-islands'))()
   
- elseif game.PlaceId == 7027306580 then
-  loadstring(game:HttpGet('https://raw.githubusercontent.com/bleachedmen48/monkey/main/Escape%20School%20Obby'))()
+elseif game.PlaceId == 7027306580 then
+ loadstring(game:HttpGet('https://raw.githubusercontent.com/bleachedmen48/monkey/main/Escape%20School%20Obby'))()
   
- elseif game.PlaceId == 8750997647 then
+elseif game.PlaceId == 8750997647 then
   loadstring(game:HttpGet('https://raw.githubusercontent.com/bleachedmen48/monkey/main/tapping-sim'))()
  
   
