@@ -57,6 +57,9 @@ elseif game.PlaceId == 7027306580 then
   
 elseif game.PlaceId == 8750997647 then
   loadstring(game:HttpGet('https://raw.githubusercontent.com/bleachedmen48/monkey/main/tapping-sim'))()
+  
+elseif game.PlaceId == 3214114884 then
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/bleachedmen48/monkey/main/flag%20wars'))()
  
   
  
